@@ -25,7 +25,7 @@ liquids repel and one goes up to top (never mix)
 ### Solubility 
 how well substance dissolves in certain amt of solvent at certain temperature to produce saturated solution
 
-- Saturated - in the middle
+- Saturated - no more can be dissolved 
 - unsaturated - more solute can be dissolved
-- super saturated - no more solute can dissolve
+- super saturated - more solute has been dissolved compared to how much should be possible to dissolve
 

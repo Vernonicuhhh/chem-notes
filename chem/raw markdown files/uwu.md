@@ -1,17 +1,17 @@
 # Measuring concentration molarity (M)
 
-## Morality
+## Molarity
 
-comparison of moles of solute to 
+comparison of moles of solute to liters of solutions
 
 water will pull the individual elements apart
 
-M = mol/L
+$M = mol/L$
 
 ### ex what is the molarity of Br- in 3.0L of solution containing 267.0g of AlBr3?
 
-$$AlBr3 -> 
-Al3(aq) + 3Br-(aq)$$
+$AlBr3 -> 
+Al3(aq) + 3Br(aq)$
 
 
 do t-chart to find the amount of mol in 267g of AlBr3
@@ -49,10 +49,6 @@ $$ percent = gramssolute/grams solution * 100$$
 
 15.0/50+15 *100 = 23.1% NaCl
 
-
-## new heading
-
-add later
 
 
 ### how would you make 100mL of .15 M Na2S2O3 solution
